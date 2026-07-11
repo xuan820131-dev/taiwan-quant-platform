@@ -1,2 +1,15 @@
-# taiwan-quant-platform
-Taiwan Stock Quantitative Research Platform
+taiwan-quant-platform/
+
+README.md
+
+docs/
+
+src/
+
+data/
+
+output/
+
+tests/
+
+config/
