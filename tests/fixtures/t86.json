@@ -1,0 +1,4 @@
+[
+  {"Code": "2344", "Name": "華邦電", "ForeignInvestorsExcludingForeignDealersNetBuySell": "5,000,000", "InvestmentTrustNetBuySell": "1,000,000", "DealerNetBuySell": "-500,000", "TotalNetBuySell": "5,500,000"},
+  {"Code": "2303", "Name": "聯電", "ForeignInvestorsExcludingForeignDealersNetBuySell": "-3,000,000", "InvestmentTrustNetBuySell": "-200,000", "DealerNetBuySell": "100,000", "TotalNetBuySell": "-3,100,000"}
+]

@@ -1,0 +1,4 @@
+[
+  {"Code": "2344", "Name": "華邦電", "ClosingPrice": "100.00", "TradeVolume": "10,000,000", "TradeValue": "990,000,000", "OpeningPrice": "98.00", "HighestPrice": "100.00", "LowestPrice": "97.50"},
+  {"Code": "2303", "Name": "聯電", "ClosingPrice": "50.00", "TradeVolume": "20,000,000", "TradeValue": "1,010,000,000", "OpeningPrice": "49.00", "HighestPrice": "50.30", "LowestPrice": "48.80"}
+]
